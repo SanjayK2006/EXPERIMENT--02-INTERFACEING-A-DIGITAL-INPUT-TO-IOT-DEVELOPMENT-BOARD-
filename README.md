@@ -75,7 +75,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 NAME: SANJAY K
 REG NO: 212223220094
 ```
-
+```
 #include"stdio.h"
 #include"stdbool.h"
 bool IRSENSOR;
@@ -103,7 +103,7 @@ HAL_GPIO_WritePin(GPIO, GPIO_PIN_0,RESET);
                 HAL_Delay(1000);
 }
 
-
+```
 ## Output  :
  # without obstacle:
  ![WhatsApp Image 2024-02-23 at 9 46 51 AM (1)](https://github.com/Yuvakrishna0/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/117915037/acef013d-d02f-4be1-b98f-1bdcc0544d68)
